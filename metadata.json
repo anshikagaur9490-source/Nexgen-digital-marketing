@@ -1,0 +1,7 @@
+{
+  "name": "Nexgen - Digital Marketing Agency",
+  "description": "A modern, high-converting digital marketing agency website featuring SEO, SMM, PPC, and Web Development services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
